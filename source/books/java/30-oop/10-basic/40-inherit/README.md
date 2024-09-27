@@ -447,8 +447,6 @@ class PrimaryStudent {
 }
 ```
 
-[下载练习](oop-inherit.zip)
-
 ### 小结
 
 继承是面向对象编程的一种强大的代码复用方式；
